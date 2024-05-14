@@ -48,7 +48,7 @@ Star⭐ the repo if you like what you see😉.
         <td><img src="./pages/username.jpg" alt="" width="200"></td>
         <td><img src="./pages/foodfind.jpg" alt="" width="200"></td>
           <td><img src="./pages/recipe.jpg" alt="" width="200"></td>
-         <td><img src="./pages/postsearch.jpg" alt="" width="200"></td>
+         <td><img src="./pages/postserach.jpg" alt="" width="200"></td>
     <tr>
 </table>
 
