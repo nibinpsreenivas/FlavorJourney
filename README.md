@@ -24,16 +24,16 @@ Star⭐ the repo if you like what you see😉.
 
 <table border>
     <tr>
-        <th style="text-align:center">Landing page</th>
-      <th style="text-align:center">login page</th>
-        <th style="text-align:center">Photo Register</th>
-        <th style="text-align:center">Register page</th>
+        <th style="text-align:center">Profile Page</th>
+      <th style="text-align:center">Chat</th>
+        <th style="text-align:center">POST</th>
+        <th style="text-align:center">POST PREDICT</th>
     </tr>
     <tr>
-        <td><img src="./pages/Loginblack.jpg" alt="" width="200"></td>
-        <td><img src="./pages/Login2black.jpg" alt="" width="200"></td>
-          <td><img src="./pages/Registerblack.jpg" alt="" width="200"></td>
-         <td><img src="./pages/Registerrr.jpg" alt="" width="200"></td>
+        <td><img src="./pages/profile.jpg" alt="" width="200"></td>
+        <td><img src="./pages/chat.jpg" alt="" width="200"></td>
+          <td><img src="./pages/post.jpg" alt="" width="200"></td>
+         <td><img src="./pages/post predict.jpg" alt="" width="200"></td>
     <tr>
 </table>
 
