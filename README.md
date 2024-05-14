@@ -39,33 +39,19 @@ Star⭐ the repo if you like what you see😉.
 
 <table border>
     <tr>
-        <th style="text-align:center">Profile</th>
-      <th style="text-align:center">Privacy</th>
-        <th style="text-align:center">Update Profile</th>
-        <th style="text-align:center">password Change</th>
+        <th style="text-align:center">NMAE SEARCH</th>
+      <th style="text-align:center">FOOD PREDICT</th>
+        <th style="text-align:center">RECIPE</th>
+        <th style="text-align:center">POST SEARCH</th>
     </tr>
     <tr>
-        <td><img src="./pages/profile2.jpg" alt="" width="200"></td>
-        <td><img src="./pages/privacy.jpg" alt="" width="200"></td>
-          <td><img src="./pages/update1.jpg" alt="" width="200"></td>
-         <td><img src="./pages/password1.jpg" alt="" width="200"></td>
+        <td><img src="./pages/username.jpg" alt="" width="200"></td>
+        <td><img src="./pages/foodfind.jpg" alt="" width="200"></td>
+          <td><img src="./pages/recipe.jpg" alt="" width="200"></td>
+         <td><img src="./pages/postsearch.jpg" alt="" width="200"></td>
     <tr>
 </table>
 
-<table border>
-    <tr>
-        <th style="text-align:center">QRcode</th>
-      <th style="text-align:center">Chat List</th>
-        <th style="text-align:center">Chat</th>
-        <th style="text-align:center">Post</th>
-    </tr>
-    <tr>
-        <td><img src="./pages/QRcode.jpg" alt="" width="200"></td>
-        <td><img src="./pages/Messages1.jpg" alt="" width="200"></td>
-          <td><img src="./pages/Message2.jpg" alt="" width="200"></td>
-         <td><img src="./pages/Post.jpg" alt="" width="200"></td>
-    <tr>
-</table>
 
 
 
