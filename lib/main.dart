@@ -17,25 +17,7 @@ import 'package:camera/camera.dart';
 
 List<CameraDescription>? cameras;
 void main() async {
-  WidgetsFlutterBinding.ensureInitialized();
-  // if (kIsWeb) {
-  //   await Firebase.initializeApp(
-  //     options: const FirebaseOptions(
-  //         apiKey: "AIzaSyBjRVAivoVdkLUgPp0-p1LIUfZKL5LoFvc",
-  //         appId: "1:1096608712752:android:f69559f560a42e55fe85f5",
-  //         messagingSenderId: "836239946911",
-  //         projectId: "hellogram-ea6ed",
-  //         storageBucket: "hellogram-ea6ed.appspot.com"),
-  //   );
-  // } else {
-  await Firebase.initializeApp(
-    options: const FirebaseOptions(
-        apiKey: "AIzaSyBjRVAivoVdkLUgPp0-p1LIUfZKL5LoFvc",
-        appId: "1:1096608712752:android:f69559f560a42e55fe85f5",
-        messagingSenderId: "836239946911",
-        projectId: "hellogram-ea6ed",
-        storageBucket: "hellogram-ea6ed.appspot.com"),
-  );
+ 
 
   runApp(const MyApp());
 }
