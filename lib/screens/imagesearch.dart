@@ -249,7 +249,7 @@ class _MyHomePageState extends State<imagesearch> {
                       msg: "plz upload food image first",
                     );
                   }
-                  final apiKey = "AIzaSyAHTrCr0pPrBNOGylVo01SMxlDMedj2b5M";
+                  final apiKey = "ENTER YOUR KEY";
 
                   final model =
                       GenerativeModel(model: 'gemini-pro', apiKey: apiKey);
