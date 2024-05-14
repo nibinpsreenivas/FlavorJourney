@@ -4,7 +4,7 @@
 FlavorJourney is a fully functional food recipe sharing social media app with multiple features built with flutter and dart.
 
 Star⭐ the repo if you like what you see😉.
-![bmi (820 x 360 px)](https://raw.githubusercontent.com/nibinpsreenivas/FlavorJourney/main/pages/Add%20a%20subheading.jpg)
+![bmi (820 x 360 px)]([https://raw.githubusercontent.com/nibinpsreenivas/FlavorJourney/main/pages/Add%20a%20subheading.jpg](https://raw.githubusercontent.com/nibinpsreenivas/FlavorJourney/main/pages/Add%20a%20subheading%20(1).gif))
 ## Screenshots
 
 <table border>
