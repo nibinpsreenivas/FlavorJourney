@@ -1,24 +1,24 @@
 # FlavorJourney
  
  
-hellogram is a fully functional social media app with multiple features built with flutter and dart.
+FlavorJourney is a fully functional food recipe sharing social media app with multiple features built with flutter and dart.
 
 Star⭐ the repo if you like what you see😉.
-![bmi (820 x 360 px)](https://raw.githubusercontent.com/nibinpsreenivas/Hellogram_Node-js/main/Add%20a%20subheading.gif)
+![bmi (820 x 360 px)](https://raw.githubusercontent.com/nibinpsreenivas/FlavorJourney/main/pages/Add%20a%20subheading.jpg)
 ## Screenshots
 
 <table border>
     <tr>
         <th style="text-align:center">Home</th>
-      <th style="text-align:center">Emotion Home</th>
-        <th style="text-align:center">Story</th>
+      <th style="text-align:center">Login</th>
+        <th style="text-align:center">Register</th>
         <th style="text-align:center">Search</th>
     </tr>
     <tr>
-        <td><img src="./pages/HomeScreen.jpg" alt="" width="220"></td>
-        <td><img src="./pages/Homescreen2.jpg" alt="" width="220"></td>
-          <td><img src="./pages/story.jpg" alt="" width="220"></td>
-         <td><img src="./pages/Search.jpg" alt="" width="220"></td>
+        <td><img src="./pages/home.jpg" alt="" width="220"></td>
+        <td><img src="./pages/login.jpg" alt="" width="220"></td>
+          <td><img src="./pages/register.jpg" alt="" width="220"></td>
+         <td><img src="./pages/search.jpg" alt="" width="220"></td>
     <tr>
 </table>
 
