@@ -39,7 +39,7 @@ Star⭐ the repo if you like what you see😉.
 
 <table border>
     <tr>
-        <th style="text-align:center">NMAE SEARCH</th>
+        <th style="text-align:center">NAME SEARCH</th>
       <th style="text-align:center">FOOD PREDICT</th>
         <th style="text-align:center">RECIPE</th>
         <th style="text-align:center">POST SEARCH</th>
